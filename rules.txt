@@ -73,3 +73,6 @@ typora.io
 typingclub.com
 tablesgenerator.com
 reddit.com
+tiktokv.com
+tokopediax.com
+tiktokcdn.com
